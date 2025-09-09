@@ -1,7 +1,7 @@
 # Lasagna
 Tasty lasagna
 
-## Ingrediets
+## Ingredients
 - lasagna pasta
 - tomato sauce
 - mozzarella
