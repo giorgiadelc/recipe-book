@@ -12,4 +12,8 @@
 
 ## Instructions
 
-TODO: these are missing
+- cook rigatoni al dente
+- fry pancetta and onions
+- add fresh peas and mushrooms
+- mix with the pasta
+- enjoy!
